@@ -1,0 +1,12 @@
+---
+title: About this site
+date: 2026-10-23
+description: Mathematics notes and other writing, collected in one place.
+categories: [Site updates]
+---
+
+This site brings together mathematics notes, theses, exercises and other documents from the [math-notes repository](https://github.com/GrothenSerre/math-notes).
+
+The [mathematics section](../../mathematics/index.qmd) groups material by topic. The [document archive](../../documents/index.qmd) provides direct access to all downloadable files.
+
+Longer writing will appear under [Essays](../../essays/index.qmd); this blog is a place for shorter notes and updates.

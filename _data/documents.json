@@ -1,0 +1,93 @@
+{
+  "master-thesis/Master_thesis (16).pdf": {
+    "title": "Towards Higher Algebra",
+    "description": "A Journey from Homological Algebra to the Derived ∞-category of R-Modules. Supervisor: Sofia Tirabassi.",
+    "categories": ["Theses", "Higher algebra", "Category theory"],
+    "kind": "Master's thesis",
+    "year": "2026"
+  },
+  "bachelor-thesis/2024_K24_Benjamin-Andersson-1-1.pdf": {
+    "title": "Tensor Categories",
+    "description": "Bachelor's thesis at Stockholm University. Supervisor: Rikard Bögvad.",
+    "categories": ["Theses", "Category theory", "Algebra"],
+    "kind": "Bachelor's thesis",
+    "year": "2024"
+  },
+  "advanced-algebra/Advanced_Algebra_HT_2023-10.pdf": {
+    "title": "Advanced Algebra",
+    "description": "Course notes, HT2023. With Victor Groth. Updated January 2026.",
+    "categories": ["Algebra", "Course notes"],
+    "kind": "Lecture notes",
+    "year": "2023"
+  },
+  "algebraic-analysis/Topics_in_Algebra__A_Primer_of_Algebraic_D_modules__Exercises-23.pdf": {
+    "title": "A Primer of Algebraic D-modules — Exercises",
+    "description": "Worked exercises in algebraic analysis.",
+    "categories": ["Algebraic analysis", "Exercises"],
+    "kind": "Exercises",
+    "year": "2025"
+  },
+  "algebraic-geometry/Algebraic_Geometry__VT2025-24.pdf": {
+    "title": "Algebraic Geometry",
+    "description": "Course notes, VT2025. With Victor Groth.",
+    "categories": ["Algebraic geometry", "Course notes"],
+    "kind": "Lecture notes",
+    "year": "2025"
+  },
+  "category-theory/Ab____is_an_additive_functor_.pdf": {
+    "title": "Abelianization and Coproducts",
+    "description": "A short note on the universal property of abelianization and free products.",
+    "categories": ["Category theory", "Algebra"],
+    "kind": "Short note",
+    "year": "2026"
+  },
+  "galois-theory/Algebrans_fundamentalsats.pdf": {
+    "title": "Algebrans fundamentalsats",
+    "description": "A proof of the fundamental theorem of algebra. In Swedish.",
+    "categories": ["Galois theory", "Algebra"],
+    "kind": "Short note",
+    "year": "2024"
+  },
+  "graph-theory/Graph_Theory__HT2025-34.pdf": {
+    "title": "Graph Theory",
+    "description": "Course notes, HT2025. With Victor Groth.",
+    "categories": ["Graph theory", "Course notes"],
+    "kind": "Lecture notes",
+    "year": "2025"
+  },
+  "real-analysis/Advanced_Real_Analysis_I__HT2025-21.pdf": {
+    "title": "Advanced Real Analysis I",
+    "description": "Course notes, HT2025.",
+    "categories": ["Analysis", "Course notes"],
+    "kind": "Lecture notes",
+    "year": "2025"
+  },
+  "reductive-algebraic-groups/Reductive_Algebraic_Groups_HT2024-9.pdf": {
+    "title": "Reductive Algebraic Groups",
+    "description": "Course notes, HT2024. With Victor Groth. Updated February 2026.",
+    "categories": ["Algebraic groups", "Course notes"],
+    "kind": "Lecture notes",
+    "year": "2024"
+  },
+  "representation-theory/Representation_theory_of_finite_groups_VT2024-4.pdf": {
+    "title": "Representation Theory of Finite Groups",
+    "description": "Course notes, VT2024. With Victor Groth. Updated February 2026.",
+    "categories": ["Representation theory", "Course notes"],
+    "kind": "Lecture notes",
+    "year": "2024"
+  },
+  "topology/Adjunction_space_as_pushout.pdf": {
+    "title": "Adjunction Spaces as Pushouts",
+    "description": "A short note on adjunction spaces and their universal property.",
+    "categories": ["Topology", "Category theory"],
+    "kind": "Short note",
+    "year": "2024"
+  },
+  "CV_Benjamin_Andersson__P_ (3).pdf": {
+    "title": "Curriculum Vitae",
+    "description": "Benjamin Andersson — CV.",
+    "categories": ["CV"],
+    "kind": "CV",
+    "year": "2026"
+  }
+}

@@ -1,0 +1,36 @@
+---
+title: "Your mathematics note"
+date: 2026-10-23
+description: "A short description of the note."
+categories: [Algebra]
+kind: Note
+filetype: HTML
+draft: true
+---
+
+Remove `draft: true` when ready to publish.
+
+## Inline and display mathematics
+
+Inline LaTeX: $V \otimes_k W$.
+
+Display LaTeX:
+
+$$
+\dim_k(V \otimes_k W) = \dim_k(V)\dim_k(W).
+$$
+
+::: {#thm-example}
+## Dimension of a tensor product
+
+For finite-dimensional vector spaces $V$ and $W$ over a field $k$,
+the dimension of their tensor product is the product of their dimensions.
+:::
+
+::: {.proof}
+If $(v_i)$ and $(w_j)$ are bases, the tensors $v_i \otimes w_j$ form a basis
+of $V \otimes_k W$.
+:::
+
+Refer to @thm-example. Citations can be added with a BibTeX file and
+`bibliography: references.bib` in the front matter.

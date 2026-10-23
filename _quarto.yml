@@ -1,0 +1,76 @@
+project:
+  type: website
+  output-dir: _site
+  pre-render:
+    - python3 scripts/build_catalog.py
+  render:
+    - index.qmd
+    - mathematics/**/*.qmd
+    - essays/**/*.qmd
+    - blog/**/*.qmd
+    - documents/**/*.qmd
+    - 404.qmd
+  resources:
+    - .nojekyll
+    - assets/favicon.svg
+    - "**/*.pdf"
+    - documents/files/**
+    - mathematics/files/**
+
+website:
+  title: Benjamin Andersson
+  description: Mathematics notes, theses, essays and other writing by Benjamin Andersson.
+  site-url: https://GrothenSerre.github.io/math-notes/
+  repo-url: https://github.com/GrothenSerre/math-notes
+  favicon: assets/favicon.svg
+  search:
+    location: navbar
+    type: overlay
+  navbar:
+    background: light
+    collapse-below: lg
+    left:
+      - text: Mathematics
+        href: mathematics/index.qmd
+      - text: Essays
+        href: essays/index.qmd
+      - text: Blog
+        href: blog/index.qmd
+      - text: Documents
+        href: documents/index.qmd
+    right:
+      - icon: github
+        href: https://github.com/GrothenSerre
+        aria-label: GitHub profile
+  page-footer:
+    border: false
+    left: "© Benjamin Andersson"
+    right:
+      - text: GitHub
+        href: https://github.com/GrothenSerre/math-notes
+      - text: RSS
+        href: blog/index.xml
+
+format:
+  html:
+    theme:
+      - cosmo
+      - assets/theme.scss
+    toc: true
+    toc-title: On this page
+    html-math-method: mathjax
+    code-copy: true
+    include-after-body: assets/accessibility.html
+    anchor-sections: true
+    link-external-newwindow: true
+    smooth-scroll: true
+    date-format: D MMMM YYYY
+    grid:
+      body-width: 1000px
+      sidebar-width: 170px
+      margin-width: 180px
+
+execute:
+  freeze: auto
+
+lang: en

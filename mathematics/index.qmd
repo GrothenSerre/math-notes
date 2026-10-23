@@ -1,0 +1,26 @@
+---
+title: Mathematics
+description: Theses, lecture notes, exercises and short mathematical notes.
+toc: false
+listing:
+  id: mathematics-archive
+  contents:
+    - ../_generated/mathematics.yml
+    - notes/**/*.qmd
+  template: ../assets/archive.ejs.md
+  fields: [title, description, categories, kind, year, filetype]
+  sort: title
+  sort-ui: false
+  filter-ui: [title, description, categories, kind, year]
+  categories: unnumbered
+  page-size: 30
+---
+
+::: {.page-deck}
+Theses, lecture notes, exercises, and the occasional short proof.
+:::
+
+Some course notes were written together with Victor Groth; coauthorship is indicated in the descriptions and the original PDFs.
+
+::: {#mathematics-archive}
+:::

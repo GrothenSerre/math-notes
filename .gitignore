@@ -1,0 +1,17 @@
+/.quarto/
+/_site/
+/_generated/
+/.openai/
+/node_modules/
+.DS_Store
+__pycache__/
+# Intermediate render files are rebuilt by Quarto.
+*.html
+!assets/accessibility.html
+!documents/files/**/*.html
+!mathematics/files/**/*.html
+*-listing.json
+*.feed-*
+/site_libs/
+
+**/*.quarto_ipynb

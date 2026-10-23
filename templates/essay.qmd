@@ -1,0 +1,13 @@
+---
+title: "Your essay title"
+date: 2026-10-23
+description: "A short summary of the essay."
+categories: [Philosophy]
+draft: true
+---
+
+Write an introduction here. Remove `draft: true` when ready to publish.
+
+## First section
+
+Continue your essay here.

@@ -1,0 +1,82 @@
+---
+title: Benjamin Andersson
+title-block-banner: false
+pagetitle: Benjamin Andersson — Mathematics & writing
+description: A personal collection of mathematics notes, theses, essays and other writing.
+toc: false
+page-layout: full
+body-classes: home-page
+---
+
+::: {.home-hero}
+::: {.eyebrow}
+Mathematics & writing
+:::
+
+# A place for notes, proofs, and ideas. {.hero-title}
+
+::: {.hero-intro}
+I'm Benjamin Andersson. This is my collection of mathematics notes and longer projects, with space for essays and thoughts beyond mathematics.
+:::
+
+[Explore the mathematics](mathematics/index.qmd){.button-primary} [Browse documents ↗](documents/index.qmd){.button-text}
+:::
+
+::: {.section-heading}
+## Selected work
+
+[All mathematics →](mathematics/index.qmd)
+:::
+
+::: {.selected-work}
+::: {.work-entry}
+::: {.work-meta}
+01 · Master's thesis · 2026
+:::
+
+### [Towards Higher Algebra](mathematics/notes/higher-algebra.qmd)
+
+A journey from homological algebra to the derived ∞-category of R-modules.
+
+[Read about the thesis →](mathematics/notes/higher-algebra.qmd){.quiet-link}
+:::
+
+::: {.work-entry}
+::: {.work-meta}
+02 · Bachelor's thesis · 2024
+:::
+
+### [Tensor Categories](mathematics/notes/tensor-categories.qmd)
+
+Constructions and theorems leading towards the main theorem of Tannakian categories.
+
+[Read about the thesis →](mathematics/notes/tensor-categories.qmd){.quiet-link}
+:::
+:::
+
+::: {.section-heading .explore-heading}
+## Explore
+:::
+
+::: {.section-directory}
+::: {.directory-entry}
+### [Mathematics →](mathematics/index.qmd)
+
+Theses, lecture notes, proofs and exercises. From algebra and geometry to analysis and topology.
+:::
+::: {.directory-entry}
+### [Essays →](essays/index.qmd)
+
+Longer writing on philosophy, artificial intelligence, religion and other questions.
+:::
+::: {.directory-entry}
+### [Blog →](blog/index.qmd)
+
+Shorter notes, updates and ideas in progress.
+:::
+::: {.directory-entry}
+### [Documents →](documents/index.qmd)
+
+A searchable archive of downloadable PDFs and other files, including my CV.
+:::
+:::

@@ -1,0 +1,23 @@
+---
+title: Essays
+description: Longer writing on philosophy, artificial intelligence, religion and other topics.
+toc: false
+listing:
+  contents: posts/**/*.qmd
+  type: default
+  fields: [title, description, date, categories, reading-time]
+  sort: date desc
+  categories: unnumbered
+  sort-ui: false
+  filter-ui: false
+---
+
+::: {.page-deck}
+Longer explorations of ideas, within and beyond mathematics.
+:::
+
+Philosophy, artificial intelligence, religion, and other topics.
+
+::: {.empty-state}
+Essays will appear here as they are published.
+:::

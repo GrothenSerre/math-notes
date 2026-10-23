@@ -1,0 +1,9 @@
+---
+title: "Your post title"
+date: 2026-10-23
+description: "One sentence describing the post."
+categories: [Notes]
+draft: true
+---
+
+Write your post here. Remove `draft: true` when it is ready to publish.

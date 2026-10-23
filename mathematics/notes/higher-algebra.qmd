@@ -1,0 +1,22 @@
+---
+title: Towards Higher Algebra
+subtitle: A Journey from Homological Algebra to the Derived ∞-category of R-Modules
+description: "Master's thesis, 2026. From chain complexes and homotopies to the derived ∞-category of R-modules."
+categories: [Theses, Higher algebra, Category theory]
+kind: Master's thesis
+year: "2026"
+filetype: HTML
+toc: false
+---
+
+::: {.document-meta}
+Master's thesis · 2026 · Supervisor: Sofia Tirabassi
+:::
+
+This thesis follows Part I of Aaron Mazel-Gee's *Higher Algebra: Chapter 0*, developing homological algebra towards the derived ∞-category of $R$-modules.
+
+The topics include chain complexes, homotopies, quasi-isomorphisms, homotopy kernels and cokernels, resolutions, dg-categories and a first introduction to ∞-categories.
+
+[Read the thesis (PDF) ↗](../../master-thesis/Master_thesis%20%2816%29.pdf){.button-primary}
+
+[← All mathematics](../index.qmd){.back-link}

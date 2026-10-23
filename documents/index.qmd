@@ -1,0 +1,24 @@
+---
+title: Documents
+description: A searchable archive of downloadable PDFs and other files.
+toc: false
+listing:
+  id: document-archive
+  contents: ../_generated/documents.yml
+  template: ../assets/archive.ejs.md
+  fields: [title, description, categories, kind, year, filetype, size]
+  sort: title
+  sort-ui: false
+  filter-ui: [title, description, categories, kind, year, filetype]
+  categories: unnumbered
+  page-size: 50
+---
+
+::: {.page-deck}
+The complete file archive. Browse by topic, or search for a title.
+:::
+
+Open any title to view or download the original file.
+
+::: {#document-archive}
+:::

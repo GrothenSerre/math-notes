@@ -1,0 +1,19 @@
+---
+title: Tensor Categories
+description: "Bachelor's thesis, 2024. Constructions and theorems leading towards the main theorem of Tannakian categories."
+categories: [Theses, Category theory, Algebra]
+kind: Bachelor's thesis
+year: "2024"
+filetype: HTML
+toc: false
+---
+
+::: {.document-meta}
+Bachelor's thesis · 2024 · Stockholm University · Supervisor: Rikard Bögvad
+:::
+
+This thesis covers constructions and theorems needed to understand the statement of the main theorem in *Tannakian Categories*.
+
+[Read the thesis (PDF) ↗](../../bachelor-thesis/2024_K24_Benjamin-Andersson-1-1.pdf){.button-primary}
+
+[← All mathematics](../index.qmd){.back-link}

@@ -1,0 +1,23 @@
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll(".quarto-listing-filter input").forEach(function (input) {
+    input.setAttribute("aria-label", "Filter the archive");
+    input.setAttribute("type", "search");
+    // List.js listens to keyup. Also filter when text is pasted or cleared.
+    input.addEventListener("input", function () {
+      input.dispatchEvent(new Event("keyup", { bubbles: true }));
+    });
+  });
+  document.querySelectorAll(".quarto-listing-category .category").forEach(function (category) {
+    category.setAttribute("role", "button");
+    category.setAttribute("tabindex", "0");
+    category.setAttribute("aria-label", "Filter by " + category.textContent.trim());
+    category.addEventListener("keydown", function (event) {
+      if (event.key === "Enter" || event.key === " ") {
+        event.preventDefault();
+        category.click();
+      }
+    });
+  });
+});
+</script>
